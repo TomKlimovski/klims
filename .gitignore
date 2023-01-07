@@ -1,1 +1,8 @@
 .DS_Store
+.next
+
+// add the folder stax to gitignore
+
+stax/
+index_files/
+node_modules/
